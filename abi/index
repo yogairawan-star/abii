@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Materi Gambar Teknik - Penjelasan dasar, simbol, dan contoh gambar teknik.">
+    <title>Materi Gambar Teknik</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #1e90ff;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+
+        nav {
+            background-color: #4682b4;
+            padding: 10px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            padding: 10px 20px;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            background-color: #87cefa;
+        }
+
+        section {
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        h1, h2 {
+            color: #333;
+            text-align: center;
+        }
+
+        .content img {
+            display: block;
+            max-width: 100%;
+            height: auto;
+            margin: 20px auto;
+        }
+
+        .content p {
+            text-align: justify;
+            line-height: 1.6;
+        }
+
+        footer {
+            background-color: #1e90ff;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Materi Gambar Teknik</h1>
+        <p>Mempelajari dasar-dasar gambar teknik dan aplikasinya.</p>
+    </header>
+
+
+
+    <section id="pengertian">
+        <h2>Pengertian Gambar Teknik</h2>
+        <div class="content">
+            <p>Gambar teknik adalah bahasa universal yang digunakan dalam bidang teknik untuk menyampaikan informasi mengenai bentuk, ukuran, dan material suatu benda atau struktur. Gambar teknik harus mengikuti standar tertentu agar dapat dipahami oleh semua orang di bidang tersebut.</p>
+            <img src="foto/teknik.jpg" alt="Contoh gambar teknik">
+        </div>
+    </section>
+
+    <section id="jenis">
+        <h2>Jenis-Jenis Gambar Teknik</h2>
+        <div class="content">
+            <p>Berikut beberapa jenis gambar teknik yang umum digunakan:</p>
+            <ul>
+                <li><strong>Gambar Proyeksi</strong>: Menggambarkan objek dari berbagai sudut pandang.</li>
+                <li><strong>Gambar Detail</strong>: Memberikan informasi rinci mengenai bagian-bagian suatu objek.</li>
+                <li><strong>Gambar Assembly</strong>: Menunjukkan bagaimana komponen-komponen bergabung menjadi satu kesatuan.</li>
+                <li><strong>Gambar Skematik</strong>: Menggambarkan sistem atau alur kerja secara simbolik.</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="contoh">
+        <h2>Contoh Gambar Teknik</h2>
+        <div class="content">
+            <img src="foto/OIP.jpeg" alt="Gambar teknik mesin">
+            <p>Gambar di atas adalah contoh sederhana dari gambar teknik mesin. Gambar ini menunjukkan detail komponen dan dimensi yang diperlukan untuk pembuatan benda kerja.</p>
+        </div>
+    </section>
+
+   
+</body>
+</html>
